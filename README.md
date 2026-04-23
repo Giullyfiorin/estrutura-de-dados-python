@@ -69,7 +69,3 @@ python tabela_hash.py
 ## 👨‍💻 Autor
 
 Giully Fiorin
-
-git remote add origin https://github.com/Giullyfiorin/estrutura-de-dados-python
-git branch -M main
-git push -u origin main
